@@ -89,10 +89,10 @@
 	},
 	{
 		"value": "memory"
-        },		
+        },
 	{
 		"value": "fronto-parietal network"
-        },		
+        },
 	{
 		"value": "theta oscillation"
         }
@@ -166,6 +166,14 @@
             "values": [
                 {
                     "value": "Quebec"
+                }
+            ]
+        },
+{
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "EEGnet"
                 }
             ]
         },
